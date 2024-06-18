@@ -45,4 +45,4 @@ Distill Whisper
 Flash attention
 
 Each section includes relevant code snippets and explanations.
-Note: Make sure to replace path_to_your_audio with the actual path to your audio file.
+Note: Make sure to replace 'path_to_your_audio' with the actual path to your audio file.
