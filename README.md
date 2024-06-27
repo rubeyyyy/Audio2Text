@@ -38,13 +38,13 @@ Sections
 The notebook is divided into the following sections:
 
 Installation
-Import required packages
-Load the Whisper model
-Create an automatic speech recognition pipeline
-Perform speech recognition
-Translation
-Distill Whisper
-Flash attention
+Import required packages   
+Load the Whisper model   
+Create an automatic speech recognition pipeline   
+Perform speech recognition  
+Translation  
+Distill Whisper   
+Flash attention   
 
 
 Each section includes relevant code snippets and explanations.
