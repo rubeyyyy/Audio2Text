@@ -37,7 +37,7 @@ Explore additional features like translation, timestamp generation, distillation
 Sections    
 The notebook is divided into the following sections:
 
-Installation
+Installation  
 Import required packages   
 Load the Whisper model   
 Create an automatic speech recognition pipeline   
