@@ -25,16 +25,16 @@ You can install the required packages using the following commands:
 
 Usage
 
-Install the required packages.
-Import the necessary packages.
-Load the Whisper model and processor.
-Create a pipeline for automatic speech recognition.
-Provide the path to an audio file.
-Run the pipeline on the audio file to obtain the transcribed text.
-Explore additional features like translation, timestamp generation, distillation, and the use of flash attention.
+Install the required packages.   
+Import the necessary packages.   
+Load the Whisper model and processor.   
+Create a pipeline for automatic speech recognition.   
+Provide the path to an audio file.   
+Run the pipeline on the audio file to obtain the transcribed text.  
+Explore additional features like translation, timestamp generation, distillation, and the use of flash attention.  
 
 
-Sections
+Sections    
 The notebook is divided into the following sections:
 
 Installation
